@@ -6,7 +6,7 @@ export default function Team() {
   const team = [
     {
       name: 'Eze Ransom',
-      role: 'Founder & CEO',
+      role: 'Team Lead and Developer',
       image: 'https://cocozqaswhyugfbilbxk.supabase.co/storage/v1/object/public/Codex-Lab//Ransom.jpg',
       socials: {
         twitter: 'https://x.com/eze_ransom',
